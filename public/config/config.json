@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf93a9c30781315C91d5916Df1Db66f33ed146672",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf93a9c30781315c91d5916df1db66f33ed146672",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Tasteful Tiger Project",
+  "SYMBOL": "TTP",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tasteful-tiger-projecet",
+  "SHOW_BACKGROUND": true
+}
